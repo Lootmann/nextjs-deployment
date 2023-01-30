@@ -10,7 +10,7 @@
   }
 
   .p {
-    @apply text-slate-300;
+    @apply text-slate-200;
   }
 
   .small {

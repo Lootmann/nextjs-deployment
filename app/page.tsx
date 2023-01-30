@@ -18,8 +18,9 @@ const Home = () => {
       <div className="my-6">
         <h2 className="title">🙄 About Me</h2>
         <p className="p">
-          I am currently unemployed and seeking employment as an AWS engineer
-          and as a programmer like TypeScript, Python, AWS, and so forth .
+          I am currently unemployed and seeking employment as an Infrastructure
+          Engineer and as a programmer using TypeScript, Python, AWS, and so
+          forth .
         </p>
       </div>
 
