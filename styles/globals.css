@@ -1,3 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .title {
+    @apply font-bold border-b-2 border-slate-500 mb-3;
+  }
+
+  .p {
+    @apply text-slate-300;
+  }
+
+  .small {
+    @apply text-xl;
+  }
+}
